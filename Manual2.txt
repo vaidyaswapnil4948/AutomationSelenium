@@ -1,0 +1,25 @@
+The activities performed in each phase of the Software Testing Life Cycle (STLC) are as follows:
+
+Requirement Analysis: In this phase, the software requirements are analyzed, and the test plan is created.
+
+Test Planning: In this phase, the test strategy is defined, and the test schedule is created.
+
+Test Design: In this phase, the test cases are designed, and the test data is prepared.
+
+Test Execution: In this phase, the test cases are executed, and the results are recorded.
+
+Test Closure: In this phase, the test activities are reviewed, and the results are documented. This phase also includes preparing the final test report and closing out the test project.
+
+The testing is sufficient and it is time to enter the Test Closure phase when the following criteria have been met:
+
+All the planned test cases have been executed and the results are recorded.
+
+All the defects have been resolved and verified.
+
+All the test objectives have been met, and the product meets the acceptance criteria.
+
+All stakeholders, including the customer, have agreed that the product is ready for release.
+
+The test environment has been cleaned up, and all test artifacts have been archived.
+
+These criteria ensure that the testing has been thorough and that the product is of sufficient quality to be released to the customer. The Test Closure phase marks the end of the STLC and the beginning of the maintenance phase.

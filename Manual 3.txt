@@ -1,0 +1,37 @@
+Functional Testing: This type of testing focuses on verifying the functionality of the software, ensuring that it meets the requirements and performs as intended.
+Sub-categories of functional testing include:
+a. Unit Testing: This type of testing verifies individual components or functions of the software to ensure they work as expected.
+b. Integration Testing: This type of testing verifies how different components of the software work together.
+c. System Testing: This type of testing verifies the complete software system as a whole, including its interfaces with external systems.
+d. Acceptance Testing: This type of testing is performed by the customer to determine whether the software meets their needs and expectations.
+Example: Consider a web-based e-commerce application, functional testing would include verifying the following:
+
+Unit Testing: The individual functions such as add to cart, payment gateway, etc. work as expected.
+Integration Testing: The integration between the different components such as database, payment gateway, and front-end interface work together smoothly.
+System Testing: The complete system, including the user interface, database, and payment gateway, work together as expected and meet the performance requirements.
+Acceptance Testing: The customer tests the system to verify that it meets their requirements and expectations.
+Non-Functional Testing: This type of testing focuses on verifying the non-functional aspects of the software, such as performance, security, and usability.
+Sub-categories of non-functional testing include:
+a. Performance Testing: This type of testing measures the performance of the software, including response time, stability, and scalability.
+b. Security Testing: This type of testing verifies that the software is secure against potential threats such as hacking, data theft, and unauthorized access.
+c. Usability Testing: This type of testing evaluates the user-friendliness of the software, including ease of use, navigation, and overall user experience.
+Example: Consider a web-based e-commerce application, non-functional testing would include verifying the following:
+
+Performance Testing: The system is able to handle the expected number of users and transactions, and the response time is within the acceptable limits.
+Security Testing: The system is secure against potential threats such as hacking, data theft, and unauthorized access.
+Usability Testing: The user interface is easy to use, navigate, and provides a good overall user experience.
+Structural Testing: This type of testing focuses on the internal structure of the software, including the code, data structures, algorithms, and databases.
+Sub-categories of structural testing include:
+a. White-box Testing: This type of testing is based on knowledge of the internal structure of the software, including the code and algorithms.
+b. Black-box Testing: This type of testing is based on the external behavior of the software, and does not require knowledge of its internal structure.
+Example: Consider a web-based e-commerce application, structural testing would include verifying the following:
+
+White-box Testing: The code is well structured, free of bugs and errors, and follows best practices and coding standards.
+Black-box Testing: The software behaves as expected from the user's perspective, and the inputs and outputs are correct.
+Regression Testing: This type of testing is performed after changes have been made to the software to ensure that the changes have not introduced any new defects.
+Example: Consider a web-based e-commerce application that has undergone some changes, regression testing would include
+
+
+
+
+

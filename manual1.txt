@@ -1,0 +1,28 @@
+Advantages of Agile Process:
+
+Faster Delivery: Agile processes allow for faster delivery of working software, as the focus is on delivering small increments of functionality in short cycles.
+
+Increased Collaboration: Agile methodology encourages collaboration between all stakeholders, including developers, customers, and end-users, leading to better buy-in and a greater sense of ownership.
+
+Improved Adaptability: Agile processes are highly adaptable and allow for changes to be made throughout the development process, rather than being locked into a rigid plan. This leads to better alignment with changing business requirements.
+
+Better Quality: Agile processes place a strong emphasis on testing and continuous improvement, which helps to ensure higher quality software.
+
+Increased Visibility: Agile processes provide increased visibility into the development process, with regular check-ins and demonstrations of working software.
+
+Ceremonies in Agile:
+
+Sprint Planning: A meeting at the start of each sprint where the team discusses what work they will complete during the sprint.
+
+Daily Stand-up: A daily meeting where team members provide an update on their progress and discuss any challenges they are facing.
+
+Sprint Review: A meeting at the end of each sprint where the team demonstrates what they have completed during the sprint and gathers feedback from stakeholders.
+
+Sprint Retrospective: A meeting at the end of each sprint where the team reflects on what went well and what could be improved in the next sprint.
+
+Backlog Refinement: A meeting where the team reviews and updates the backlog of work to be completed, ensuring that it remains relevant and up-to-date.
+
+These ceremonies are key components of Agile methodology and help to ensure that the team is aligned, informed, and working efficiently towards a common goal.
+
+
+
